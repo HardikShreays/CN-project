@@ -1,0 +1,2 @@
+# <IP>    <names>      -> copy to /opt/homebrew/etc/team.hosts
+MAC2_IP   app.team1.test api.team1.test
